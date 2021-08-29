@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: Productsdb
+      uri: mongodb+srv://nahuel:bauty2021@cluster0.pwton.mongodb.net/Productsdb?retryWrites=true&w=majority
+server:
+  port: 9292
